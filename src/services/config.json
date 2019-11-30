@@ -1,0 +1,14 @@
+{
+    "isDark": true,
+    "themeColor": "#f56055",
+    "ios": {
+        "black": "#000",
+        "singleText": "#333",
+        "white": "#fff"
+    },
+    "android": {
+        "black": "#15202b",
+        "singleText": "#333",
+        "white": "#fff"
+    }
+}
